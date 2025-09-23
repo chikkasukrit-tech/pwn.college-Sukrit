@@ -1,0 +1,16 @@
+this module contains three challenges that are
+1) intro to commands
+2) intro to arguments
+3) command history
+
+
+1) intro to commands
+this challenge basically tells us to invoke the hello comand. It is like basically saying hello to the computer.
+flag-pwn.college{YWT-vA83Yrb3jza1-gu-67ZlZch.QX3YjM1wSMxAzNzEzW}
+
+2)intro to arguments
+this challenge also asks us to say hello but this time not to the computer but to the hackers that is the argument
+flag-pwn.college{g8fNkDlbHn7mF1R9z260SwEfW2s.QX4YjM1wSMxAzNzEzW}
+  3)command history
+this challenge basically is to keep pressing the up arrow key so that we get the flag. the computer remembers everything we typed just like hello, hello hackers and saves it in its history.
+flag-pwn.college{s6cMEsR3F4o15mZvYQqi0RvnLLw.0lNzEzNxwSMxAzNzEzW}
